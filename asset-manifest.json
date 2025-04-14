@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.b70c9147.chunk.css",
-    "main.js": "/myportfolio/static/js/main.aeead826.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.aeead826.chunk.js.map",
-    "runtime~main.js": "/myportfolio/static/js/runtime~main.5be3c3f1.js",
-    "runtime~main.js.map": "/myportfolio/static/js/runtime~main.5be3c3f1.js.map",
-    "static/js/2.c7821bdd.chunk.js": "/myportfolio/static/js/2.c7821bdd.chunk.js",
-    "static/js/2.c7821bdd.chunk.js.map": "/myportfolio/static/js/2.c7821bdd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/myportfolio/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/myportfolio/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/myportfolio/index.html",
-    "precache-manifest.0585c4ab4d3a2d93db41ecc4dfb97279.js": "/myportfolio/precache-manifest.0585c4ab4d3a2d93db41ecc4dfb97279.js",
-    "service-worker.js": "/myportfolio/service-worker.js",
-    "static/css/main.b70c9147.chunk.css.map": "/myportfolio/static/css/main.b70c9147.chunk.css.map"
+    "main.css": "/my-portfolio/static/css/main.b70c9147.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.aeead826.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.aeead826.chunk.js.map",
+    "runtime~main.js": "/my-portfolio/static/js/runtime~main.27a9f1fb.js",
+    "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.27a9f1fb.js.map",
+    "static/js/2.c7821bdd.chunk.js": "/my-portfolio/static/js/2.c7821bdd.chunk.js",
+    "static/js/2.c7821bdd.chunk.js.map": "/my-portfolio/static/js/2.c7821bdd.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/my-portfolio/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/my-portfolio/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.74a3ecd87d29c320aef1d6d06346cf29.js": "/my-portfolio/precache-manifest.74a3ecd87d29c320aef1d6d06346cf29.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.b70c9147.chunk.css.map": "/my-portfolio/static/css/main.b70c9147.chunk.css.map"
   }
 }
